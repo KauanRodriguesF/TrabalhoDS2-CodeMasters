@@ -22,7 +22,7 @@ Este repositório contém a documentação completa de um cenário de negócio e
    - Diagrama de caso de uso UML.  
 
 3. **Tecnologias/Padrões Utilizados**
-Modelagem UML: Diagrama de caso de uso.
-Ferramentas: draw.io, Google Docs, Excel.
+   - Modelagem UML: Diagrama de caso de uso.
+   -Ferramentas: draw.io, Google Docs, Excel.
 
 ---
